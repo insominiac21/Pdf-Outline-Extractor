@@ -1,4 +1,4 @@
-# Adobe PDF Outline Extractor
+# PDF Outline Extractor
 
 ## 📄 Short Description
 An advanced AI-powered PDF document intelligence system that extracts hierarchical outlines (Challenge 1a) and provides persona-driven document analysis (Challenge 1b) using machine learning, natural language processing, and semantic search technologies. Built for the Adobe India Hackathon 2025.
